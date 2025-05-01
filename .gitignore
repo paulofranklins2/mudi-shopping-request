@@ -106,6 +106,8 @@ hs_err_pid*
 
 ## File-based project format:
 *.iws
+/.idea/
+/.mvn/wrapper/
 
 ## Plugin-specific files:
 
